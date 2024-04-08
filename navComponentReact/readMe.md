@@ -1,6 +1,6 @@
 ## React Navigation Menu
 
-`
+```
 const Navbar = () => {
     const menuItems = ['Home','About','Services','Contacts','FAQs','Blog'];
     
@@ -16,4 +16,4 @@ const Navbar = () => {
 }
 
 export default Navbar;
-`
+```
