@@ -1,4 +1,5 @@
 ## React Navigation Menu
+This is a react component that generates a navigation menu. The function loops over *menuItems* array items and generates the links within the resulting navigation menu.
 
 ```
 const Navbar = () => {
