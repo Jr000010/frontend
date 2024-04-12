@@ -9,8 +9,8 @@ This article will cover how to host a React application on a shared hosting serv
 
 1. *Adding the website’s domain name to the Vite config file.* <br>
 2. *Running the build command.* <br>
-3 *Uploading the files and configuring the **.htaccess** file.* <br>
-4 *Accessing the app through the browser.*
+3. *Uploading the files and configuring the **.htaccess** file.* <br>
+4. *Accessing the app through the browser.*
 <br>
 
 **Conclusion**
