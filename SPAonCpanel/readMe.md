@@ -6,10 +6,10 @@ There are situations that might suite hosting a Single Page Application live on 
 * It is practical to use shared hosting to showcase a project developed using a framework like React to potential employers.
 <br>
 This article will cover how to host a React application on a shared hosting service using the cpanel interface. <br>
-1. *Adding the website’s domain name to the Vite config file.*
-2. *Running the build command.*
-3. *Uploading the files and configuring the **.htaccess** file.*
-4. *Accessing the app through the browser.*
+1 *Adding the website’s domain name to the Vite config file.*
+2 *Running the build command.*
+3 *Uploading the files and configuring the **.htaccess** file.*
+4 *Accessing the app through the browser.*
 
 Conclusion
 Hosting a SPA on shared hosting is an effective solution for lightweight applications which don’t require resources from heavier backend frameworks. It is an easy process that only involves preparing and generating the app’s build files, uploading them to the server and editing the *.htaccess* file.
